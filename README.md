@@ -17,12 +17,12 @@
 * [Cheklists](https://github.com/Raiwyr/checklists)
 * [Test-cases and Test-suites](https://github.com/Raiwyr/test-cases)
 
-### Developed programs
+### Developed application
 
-* Pharmacy Application (Dissertation)
-    * [Mobile app](https://github.com/Raiwyr/DisMobileProject)
-    * [Desktop app](https://github.com/Raiwyr/DisDesktop)
-    * [Server app](https://github.com/Raiwyr/DisServer)
-* Lms Application (Bachelor)
-    * [Desktop app](https://github.com/edlight-team/EdlightSolution)
-    * [Server app](https://github.com/edlight-team/EdlightServerSolution)
+* Pharmacy app (Dissertation)
+    * [Mobile](https://github.com/Raiwyr/DisMobileProject)
+    * [Desktop](https://github.com/Raiwyr/DisDesktop)
+    * [Server](https://github.com/Raiwyr/DisServer)
+* LMS app (Bachelor)
+    * [Desktop](https://github.com/edlight-team/EdlightSolution)
+    * [Server](https://github.com/edlight-team/EdlightServerSolution)
