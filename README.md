@@ -1,6 +1,6 @@
-# Портфолио
+# Portfolio
 
-### Языки и инструменты
+### Languages and tools
 ![Static Badge](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjOUI0Rjk2IiBkPSJNMTE1LjQgMzAuN0w2Ny4xIDIuOWMtLjgtLjUtMS45LS43LTMuMS0uNy0xLjIgMC0yLjMuMy0zLjEuN2wtNDggMjcuOWMtMS43IDEtMi45IDMuNS0yLjkgNS40djU1LjdjMCAxLjEuMiAyLjQgMSAzLjVsMTA2LjgtNjJjLS42LTEuMi0xLjUtMi4xLTIuNC0yLjd6Ii8+PHBhdGggZmlsbD0iIzY4MjE3QSIgZD0iTTEwLjcgOTUuM2MuNS44IDEuMiAxLjUgMS45IDEuOWw0OC4yIDI3LjljLjguNSAxLjkuNyAzLjEuNyAxLjIgMCAyLjMtLjMgMy4xLS43bDQ4LTI3LjljMS43LTEgMi45LTMuNSAyLjktNS40VjM2LjFjMC0uOS0uMS0xLjktLjYtMi44bC0xMDYuNiA2MnoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNODUuMyA3Ni4xQzgxLjEgODMuNSA3My4xIDg4LjUgNjQgODguNWMtMTMuNSAwLTI0LjUtMTEtMjQuNS0yNC41czExLTI0LjUgMjQuNS0yNC41YzkuMSAwIDE3LjEgNSAyMS4zIDEyLjVsMTMtNy41Yy02LjgtMTEuOS0xOS42LTIwLTM0LjMtMjAtMjEuOCAwLTM5LjUgMTcuNy0zOS41IDM5LjVzMTcuNyAzOS41IDM5LjUgMzkuNWMxNC42IDAgMjcuNC04IDM0LjItMTkuOGwtMTIuOS03LjZ6TTk3IDY2LjJsLjktNC4zaC00LjJ2LTQuN2g1LjFMMTAwIDUxaDQuOWwtMS4yIDYuMWgzLjhsMS4yLTYuMWg0LjhsLTEuMiA2LjFoMi40djQuN2gtMy4zbC0uOSA0LjNoNC4ydjQuN2gtNS4xbC0xLjIgNmgtNC45bDEuMi02aC0zLjhsLTEuMiA2aC00LjhsMS4yLTZoLTIuNHYtNC43SDk3em00LjggMGgzLjhsLjktNC4zaC0zLjhsLS45IDQuM3oiLz48L3N2Zz4=&logoColor=a2c2c9)
 ![Static Badge](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin&logoColor=9a40fb)
 ![Static Badge](https://img.shields.io/badge/.NET%20Framework-black?style=for-the-badge&logo=dotnet&logoColor=219ede)
@@ -11,5 +11,18 @@
 ![Static Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=ff6c37)
 
+### Test documentation
 
+* [Bug-reports](https://github.com/Raiwyr/bug-reports)
+* [Cheklists](https://github.com/Raiwyr/checklists)
+* [Test-cases and Test-suites](https://github.com/Raiwyr/test-cases)
 
+### Developed programs
+
+* Pharmacy Application (Dissertation)
+    * [Mobile app](https://github.com/Raiwyr/DisMobileProject)
+    * [Desktop app](https://github.com/Raiwyr/DisDesktop)
+    * [Server app](https://github.com/Raiwyr/DisServer)
+* Lms Application (Bachelor)
+    * [Desktop app](https://github.com/edlight-team/EdlightSolution)
+    * [Server app](https://github.com/edlight-team/EdlightServerSolution)
